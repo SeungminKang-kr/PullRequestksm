@@ -1,0 +1,1 @@
+print("fighting 하세요")
